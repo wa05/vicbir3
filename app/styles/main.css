@@ -126,6 +126,15 @@ body {
   height: 100%;
   border: 0;
 }
+/* */
+#quinta{
+  padding-bottom: 30px;
+}
+
+#disco{
+  margin: 0px 0px;
+  max-height: 350px;
+}
 
 /* Supporting marketing content */
 .marketing {
@@ -139,7 +148,7 @@ body {
 .gallery{
   margin: 0px;
   padding: 0px;  
-  height: 160px;
+  height: 190px;
   background-repeat: no-repeat;
   background-position: 100% center ;
   background-size: cover;
@@ -149,7 +158,7 @@ body {
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 830px;
   }
 
   /* Remove the padding we set earlier */

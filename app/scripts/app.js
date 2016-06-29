@@ -70,14 +70,7 @@ angular
     {'name': 'Ensayo','location':'images/4.jpg', 'id':3},
     {'name': 'Ensayo','location':'images/5.jpg', 'id':4},
     {'name': 'Recital','location':'images/6.jpg', 'id':5},
-    {'name': 'Recital','location':'images/7.jpg', 'id':6},
-    {'name': 'Recital','location':'images/7.jpg', 'id':7},
-    {'name': 'Recital','location':'images/7.jpg', 'id':8},
-    {'name': 'Recital','location':'images/7.jpg', 'id':9},
-    {'name': 'Recital','location':'images/7.jpg', 'id':10},
-    {'name': 'Recitasl','location':'images/5.jpg', 'id':11},
-    {'name': 'Recitalas','location':'images/7.jpg', 'id':12},
-    {'name': 'Recitalasas','location':'images/7.jpg', 'id':13}
+  
 
   ];  
 
